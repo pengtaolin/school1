@@ -1,0 +1,28 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.footer {
+	background-color: #080808;
+}
+.my_margin {
+	margin-bottom: 0;
+}
+
+.my_margin_top {
+	margin-top: 20px;
+}
+.my_margin_both{
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.img {
+	width:150px;
+	height:150px;
+}
+
+.my_margin_left {
+	margin-left: 20px;
+}

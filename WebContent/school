@@ -1,0 +1,54 @@
+1、建项目school1
+2、导包
+3、建包
+	com.lin.school1.dao
+	com.lin.school1.bean
+	com.lin.school1.service
+	com.lin.school1.web.servlet
+4、建立数据库
+	1)user 用户
+	2)column 栏目
+	3)theme 主题
+	4)comment 评论
+	5)message 留言
+	6)article 文章
+	7)download 下载
+5、导入数据
+6、Javabean建立
+7、dao数据持久层并测试
+
+慢慢实现
+8、静态页面
+9、servlet实现
+10、service实现
+11、实现功能
+
+
+已完成：
+	导航栏
+	界面跳转
+
+功能：
+	用户注册
+	用户登录
+	主界面内容显示
+	文章评论
+	留言板
+
+
+
+栏目状态
+ * 0正常
+ * 1删除
+ * 2主界左面
+ * 3主界面右边
+
+
+
+前台任务：
+	分页
+	主页数据
+	
+后台：
+	栏目管理
+	文章管理
